@@ -13,3 +13,7 @@ cat counter.txt >> index.html
 echo "" >> index.html
 echo "</body>" >> index.html
 echo "</html>" >> index.html
+
+git add .
+git commit -m "new update $(date)"
+git push
