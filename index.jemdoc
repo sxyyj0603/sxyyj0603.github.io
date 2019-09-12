@@ -6,12 +6,10 @@
  
 Welcome to my homepage! 
 
-I'm a fifth year Ph.D. candidate in the [http://statistics.berkeley.edu/ Statistics Department] at UC Berkeley. My advisors\n
-are Professors [https://www.stat.berkeley.edu/~bickel/ Peter Bickel] and [https://people.eecs.berkeley.edu/~jordan/ Michael Jordan]. I am also very fortunate to be supervised by \n
-Professors [https://statistics.berkeley.edu/people/noureddine-el-karoui Noureddine El Karoui], [https://www.stat.berkeley.edu/~wfithian/ William Fithian] and [https://sites.google.com/site/pengdingpku/ Peng Ding] on particular projects. \n
-Last year I was grateful to be supported by [https://www.citadel.com/ Citadel Fellowship].
+I'm a postdoctoral research in the [https://statistics.stanford.edu/ Statistics Department] at Stanford University, advised by Professor [https://statweb.stanford.edu/~candes/ Emmanuel Candes]. 
 
-Previously I was major in mathematics and statistics in [http://www.math.pku.edu.cn/ School of Mathematical Sciences at \n
+Previously I got my Ph.D. at UC Berkeley, advised by Professors [https://www.stat.berkeley.edu/~bickel/ Peter Bickel] and [https://people.eecs.berkeley.edu/~jordan/ Michael Jordan]. I was also very fortunate to be supervised by \n
+Professors [https://statistics.berkeley.edu/people/noureddine-el-karoui Noureddine El Karoui], [https://www.stat.berkeley.edu/~wfithian/ William Fithian] and [https://sites.google.com/site/pengdingpku/ Peng Ding] on particular projects.  I was major in mathematics and statistics in [http://www.math.pku.edu.cn/ School of Mathematical Sciences at \n
 Peking University] with an economic minor in [http://www.nsd.pku.edu.cn/ China Center for Economic Research at Peking \n
 University]. I was pleased to be a research assistant with Professor [http://www.math.pku.edu.cn/static/interface/people.htm?uid=wul Lan Wu] and supervised by \n
 Professor [http://www.public.iastate.edu/~songchen/ Song Xi Chen] on my undergraduate thesis.
@@ -19,16 +17,16 @@ Professor [http://www.public.iastate.edu/~songchen/ Song Xi Chen] on my undergra
 ~~~
 
 == Contact
-- Email: lihua /dot/ lei /at/ berkeley /dot/ edu
-- Address: 397 Evans Hall, UC Berkeley, Berkeley, CA 94720
+- Email: lihualei /at/ stanford /dot/ edu
+- Address: Sequoia Hall, 390 Serra Mall, Stanford University, Stanford, CA 94305-4020, USA.
 - [https://scholar.google.co.uk/citations?user=-lKb3XwAAAAJ&hl=en&oi=ao Google Scholar]
 
 == Research Interests
-- High Dimensional Statistical Inference
 - Multiple Hypothesis Testing
 - Causal Inference
-- Optimization
 - Network Analysis
+- High Dimensional Statistical Inference
+- Optimization
 - Resampling Methods
 - Time Series Analysis
 - Econometrics
