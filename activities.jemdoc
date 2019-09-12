@@ -1,0 +1,31 @@
+# jemdoc: menu{MENU}{activities.html}, nofooter  
+
+== Talks
+
+- Regression Adjustment in Randomized Experiments With A Diverging Number of Covariates.
+-- /Atlantic Causal Inference Conference (ACIC)/, 2018.  [ACIC2018_Lihua_slides.pdf /slides (25mins)/]
+
+- AdaPT: An interactive procedure for multiple testing with side information. 
+-- /International Conference on Econometrics and Statistics (EcoSta)/, 2018.   [Lihua_slides_EcoSta2018.pdf /slides (25mins)/]
+-- /Berkeley Statistics Annual Research Symposium (BSTARS)/, 2018.   [Lihua_BSTAR2018_slides.pdf /slides (5mins)/], [BSTAR_AdaPT_poster.pdf /poster/]
+-- /David-Tse's group at Stanford/, 2018.   [Lihua_tse_slides.pdf /slides (60mins)/] (Adobe Reader recommended)
+-- /International Conference on Multiple Comparison Procedures (MCP)/, 2017.   [Lihua_Lei_MCP_Talk.pdf /slides (25mins)/]
+-- /Joint Statistical Meetings/, 2016.   [JSM_AdaPT_slides.pdf /slides (15mins)/]
+
+- STAR: A general interactive framework for FDR control under structural constraints. 
+-- /International Conference on Multiple Comparison Procedures (MCP)/, 2017.   [MCP_IAT_poster.pdf /poster/]
+
+- Power of Ordered Hypothesis Testing. 
+-- /International Conference on Machine Learning (ICML)/, 2016.   [power_of_ordered_test_slides.pdf /slides (15mins)/],   [icml2016_poster.pdf /poster/]
+
+- Non-convex Finite-sum Optimization Via SCSG Methods. 
+-- /Cho-Jui Hsieh's group at UC Davis/, 2018.   [hsieh_slides.pdf /slides (60mins)/]
+-- /The Annual Conference on Neural Information Processing Systems (NIPS)/, 2017.   [nc_SCSG_poster.pdf /poster/]
+
+- Less than a Single Pass: Stochastically Controlled Stochastic Gradient. 
+-- /International Conference on Artificial Intelligence and Statistics (AISTATS)/, 2017.   [SCSG_poster.pdf /poster/]
+
+- Asymptotics For High Dimensional Regression M-Estimates: Fixed Design Results. 
+-- /Berkeley-Stanford Econometrics Jamboree/, 2017.   [Lihua_Lei_Jamboree.pdf /slides (40mins)/]
+-- My qualifying exam, 2016.   [Lihua_Lei_Qual_slides.pdf /slides (70mins)/]
+-- /Stanford-Berkeley Joint Colloquium/, 2015.   [Lei_SBJC_Nov_2015.pdf /slides (15mins)/]
