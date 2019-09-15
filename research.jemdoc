@@ -30,6 +30,11 @@
 
 - [https://arxiv.org/abs/1904.04480 On the Adaptivity of Stochastic Gradient-Based Optimization], *Lihua Lei* and Michael I. Jordan, 2019
 
+- [https://arxiv.org/pdf/1907.06133.pdf An Assumption-Free Exact Test For Fixed-Design Linear
+Models With Exchangeable Errors], *Lihua Lei* and Peter J. Bickel, 2019
+
+- [https://arxiv.org/abs/1909.04798 Unified $\ell_{2\rightarrow\infty}$ Eigenspace Perturbation Theory for Symmetric Random Matrices], *Lihua Lei*, 2019
+
 == Softwares
 
 - [https://cran.r-project.org/web/packages/adaptMT/index.html adaptMT], an R package for AdaPT (adaptive p-value thresholding) on CRAN
