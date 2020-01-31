@@ -1,10 +1,10 @@
 #!/bin/bash
 
-./jemdoc.py index.jemdoc
-./jemdoc.py research.jemdoc
-./jemdoc.py teaching.jemdoc
+python2.7 jemdoc.py index.jemdoc
+python2.7 jemdoc.py research.jemdoc
+python2.7 jemdoc.py teaching.jemdoc
 #./jemdoc.py coursework.jemdoc
-./jemdoc.py activities.jemdoc
+# python2.7jemdoc.py activities.jemdoc
 
 tac index.html | awk 'NR > 2' | tac > tmp.html
 cat tmp.html > index.html
