@@ -2,6 +2,8 @@
 
 == Journal Publications
 
+- [https://arxiv.org/abs/1904.04480 On the Adaptivity of Stochastic Gradient-Based Optimization], *Lihua Lei* and Michael I. Jordan, 2019. /To appear in SIAM Journal on Optimization (SIOPT)/. [https://arxiv.org/abs/1904.04480 Arxiv]
+
 - [https://arxiv.org/pdf/1711.02582 Overlap in Observational Studies With High-Dimensional Covariates], Alexander D'Amour, Peng Ding, Avi Feller, *Lihua Lei* and Jasjeet Sekhon, 2019. /To appear in Journal of Econometrics (JoE)/. [https://arxiv.org/pdf/1711.02582 Arxiv]
 
 - [https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssb.12274 AdaPT: An interactive procedure for multiple testing with side information], *Lihua Lei* and William Fithian, 2018. /Journal of the Royal Statistical Society: Series B (JRSS-B) *80* (2018), 649-679/. [https://arxiv.org/abs/1609.06035 Arxiv]
@@ -24,13 +26,13 @@
 
 == Preprints
 
+- [https://arxiv.org/abs/2002.05359 Adaptivity of Stochastic Gradient Methods for Nonconvex Optimization], Samuel Horv\'{a}th, *Lihua Lei*, Peter Richt\'{a}rik, Michael I. Jordan, 2020.
+
 - [https://arxiv.org/abs/1911.09200 Smoothed Nested Testing on Directed Acyclic Graphs], Wesley Tansey, Jackson H. Loper, *Lihua Lei*, William Fithian, 2019.
 
 - [https://arxiv.org/abs/1909.04798 Unified Two-to-infinity Eigenspace Perturbation Theory for Symmetric Random Matrices], *Lihua Lei*, 2019.
 
 - [https://arxiv.org/pdf/1907.06133.pdf An Assumption-Free Exact Test For Fixed-Design Linear Models With Exchangeable Errors], *Lihua Lei* and Peter J. Bickel, 2019.
-
-- [https://arxiv.org/abs/1904.04480 On the Adaptivity of Stochastic Gradient-Based Optimization], *Lihua Lei* and Michael I. Jordan, 2019.
 
 - [https://arxiv.org/abs/1810.01509 Hierarchical community detection by recursive partitioning], Tianxi Li, *Lihua Lei*, Sharmodeep Bhattacharyya, Purnamrita Sarkar, Peter J. Bickel, Elizaveta Levina, 2019.
 
