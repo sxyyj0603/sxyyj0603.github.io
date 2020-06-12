@@ -52,4 +52,4 @@
 
 - [https://github.com/lihualei71/mkn mkn], an R package for multiple-knockoffs based inference (an ongoing project)
 
-- [https://lihualei71.github.io/cfcausal/index.html], an R package for conformal inference of counterfactuals and individual treatment effects
+- [https://lihualei71.github.io/cfcausal/index.html cfcausal], an R package for conformal inference of counterfactuals and individual treatment effects
