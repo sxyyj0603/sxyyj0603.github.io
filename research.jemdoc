@@ -2,43 +2,47 @@
 
 == Journal Publications
 
-- [https://arxiv.org/abs/1904.04480 On the Adaptivity of Stochastic Gradient-Based Optimization], *Lihua Lei* and Michael I. Jordan, 2019. /To appear in SIAM Journal on Optimization (SIOPT)/. [https://arxiv.org/abs/1904.04480 Arxiv]
+- [https://arxiv.org/abs/1710.02776 A general interactive framework for FDR control under structural constraints], *Lihua Lei*, Aaditya Ramdas, and William Fithian, 2020. /To appear in Biometrika/. [https://arxiv.org/abs/1710.02776 Arxiv]
 
-- [https://arxiv.org/pdf/1711.02582 Overlap in Observational Studies With High-Dimensional Covariates], Alexander D'Amour, Peng Ding, Avi Feller, *Lihua Lei* and Jasjeet Sekhon, 2019. /To appear in Journal of Econometrics (JoE)/. [https://arxiv.org/pdf/1711.02582 Arxiv]
+- [https://arxiv.org/abs/1904.04480 On the Adaptivity of Stochastic Gradient-Based Optimization], *Lihua Lei*, and Michael I. Jordan, 2019. /To appear in SIAM Journal on Optimization (SIOPT)/. [https://arxiv.org/abs/1904.04480 Arxiv]
 
-- [https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssb.12274 AdaPT: An interactive procedure for multiple testing with side information], *Lihua Lei* and William Fithian, 2018. /Journal of the Royal Statistical Society: Series B (JRSS-B) *80* (2018), 649-679/. [https://arxiv.org/abs/1609.06035 Arxiv]
+- [https://arxiv.org/pdf/1711.02582 Overlap in Observational Studies With High-Dimensional Covariates], Alexander D'Amour, Peng Ding, Avi Feller, *Lihua Lei*, and Jasjeet Sekhon, 2019. /To appear in Journal of Econometrics (JoE)/. [https://arxiv.org/pdf/1711.02582 Arxiv]
 
-- [https://doi.org/10.1007/s00440-017-0824-7 Asymptotics For High Dimensional Regression M-Estimates: Fixed Design Results], *Lihua Lei*, Peter J. Bickel and Noureddine El Karoui. /Probability Theory and Related Fields (PTRF), *172* (2018), 983-1079/. [https://arxiv.org/abs/1612.06358 Arxiv]
+- [https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssb.12274 AdaPT: An interactive procedure for multiple testing with side information], *Lihua Lei*, and William Fithian, 2018. /Journal of the Royal Statistical Society: Series B (JRSS-B) *80* (2018), 649-679/. [https://arxiv.org/abs/1609.06035 Arxiv]
 
-- [http://www3.stat.sinica.edu.tw/statistica/j26n4/j26n416/j26n416.html Functional Coefficient Moving Average Model With Applications To Forecasting Chinese CPI], Song Xi Chen, *Lihua Lei* and Yundong Tu. /Statistica Sinica *26* (2016), 1649-1672/.
+- [https://doi.org/10.1007/s00440-017-0824-7 Asymptotics For High Dimensional Regression M-Estimates: Fixed Design Results], *Lihua Lei*, Peter J. Bickel, and Noureddine El Karoui. /Probability Theory and Related Fields (PTRF), *172* (2018), 983-1079/. [https://arxiv.org/abs/1612.06358 Arxiv]
+
+- [http://www3.stat.sinica.edu.tw/statistica/j26n4/j26n416/j26n416.html Functional Coefficient Moving Average Model With Applications To Forecasting Chinese CPI], Song Xi Chen, *Lihua Lei*, and Yundong Tu. /Statistica Sinica *26* (2016), 1649-1672/.
 
 == Conference Publications
 
 - [https://arxiv.org/abs/2001.09623 Variance Reduction with Sparse Gradients], Melih Elibol, *Lihua Lei*, Michael I. Jordan, /International Conference on Learning Representations (ICLR), 2020/.
 
-- [https://arxiv.org/abs/1610.04329 HONES: A Fast and Tuning-free Homotopy Method For Online Newton Step], Yuting Ye, *Lihua Lei* and Cheng Ju, /International Conference on Artificial Intelligence and Statistics (AISTATS), 2018/.
+- [https://arxiv.org/abs/1610.04329 HONES: A Fast and Tuning-free Homotopy Method For Online Newton Step], Yuting Ye, *Lihua Lei*, and Cheng Ju, /International Conference on Artificial Intelligence and Statistics (AISTATS), 2018/.
 
-- [https://papers.nips.cc/paper/6829-non-convex-finite-sum-optimization-via-scsg-methods.pdf Nonconvex Finite-Sum Optimization Via SCSG Methods], *Lihua Lei*, Cheng Ju, Jianbo Chen and Michael I. Jordan. /Advances in Neural Information Processing Systems (NIPS), 2017/. [https://arxiv.org/abs/1706.09156 Arxiv]
+- [https://papers.nips.cc/paper/6829-non-convex-finite-sum-optimization-via-scsg-methods.pdf Nonconvex Finite-Sum Optimization Via SCSG Methods], *Lihua Lei*, Cheng Ju, Jianbo Chen, and Michael I. Jordan. /Advances in Neural Information Processing Systems (NIPS), 2017/. [https://arxiv.org/abs/1706.09156 Arxiv]
 
-- [http://proceedings.mlr.press/v54/lei17a.html Less than a Single Pass: Stochastically Controlled Stochastic Gradient Method], *Lihua Lei* and Michael I. Jordan. /International Conference on Artificial Intelligence and Statistics (AISTATS), 2016/. [https://arxiv.org/abs/1609.03261 Arxiv] (The Arxiv version adds an erratum for the AISTATS camera-ready version)
+- [http://proceedings.mlr.press/v54/lei17a.html Less than a Single Pass: Stochastically Controlled Stochastic Gradient Method], *Lihua Lei*, and Michael I. Jordan. /International Conference on Artificial Intelligence and Statistics (AISTATS), 2016/. [https://arxiv.org/abs/1609.03261 Arxiv] (The Arxiv version adds an erratum for the AISTATS camera-ready version)
 
-- [http://proceedings.mlr.press/v48/lei16.pdf Power of Ordered Hypothesis Testing], *Lihua Lei* and William Fithian. /International Conference on Machine Learning (ICML), 2016/. [https://arxiv.org/abs/1606.01969 Arxiv]
+- [http://proceedings.mlr.press/v48/lei16.pdf Power of Ordered Hypothesis Testing], *Lihua Lei*, and William Fithian. /International Conference on Machine Learning (ICML), 2016/. [https://arxiv.org/abs/1606.01969 Arxiv]
 
 == Preprints
 
-- [https://arxiv.org/abs/2002.05359 Adaptivity of Stochastic Gradient Methods for Nonconvex Optimization], Samuel Horv\'{a}th, *Lihua Lei*, Peter Richt\'{a}rik, Michael I. Jordan, 2020.
+- [https://arxiv.org/abs/2006.06138 Conformal Inference of Counterfactuals and Individual Treatment Effects], *Lihua Lei*, and Emmanuel Cand\`{e}s, 2020.
 
-- [https://arxiv.org/abs/1911.09200 Smoothed Nested Testing on Directed Acyclic Graphs], Wesley Tansey, Jackson H. Loper, *Lihua Lei*, William Fithian, 2019.
+- [https://arxiv.org/abs/2004.14531 Consistency of Spectral Clustering on Hierarchical Stochastic Block Models], *Lihua Lei*, Xiaodong Li, and Xingmei Lou, 2020.
+
+- [https://arxiv.org/abs/2002.05359 Adaptivity of Stochastic Gradient Methods for Nonconvex Optimization], Samuel Horv\'{a}th, *Lihua Lei*, Peter Richt\'{a}rik, and Michael I. Jordan, 2020.
+
+- [https://arxiv.org/abs/1911.09200 Smoothed Nested Testing on Directed Acyclic Graphs], Wesley Tansey, Jackson H. Loper, *Lihua Lei*, and William Fithian, 2019.
 
 - [https://arxiv.org/abs/1909.04798 Unified Two-to-infinity Eigenspace Perturbation Theory for Symmetric Random Matrices], *Lihua Lei*, 2019.
 
-- [https://arxiv.org/pdf/1907.06133.pdf An Assumption-Free Exact Test For Fixed-Design Linear Models With Exchangeable Errors], *Lihua Lei* and Peter J. Bickel, 2019.
+- [https://arxiv.org/pdf/1907.06133.pdf An Assumption-Free Exact Test For Fixed-Design Linear Models With Exchangeable Errors], *Lihua Lei*, and Peter J. Bickel, 2019.
 
-- [https://arxiv.org/abs/1810.01509 Hierarchical community detection by recursive partitioning], Tianxi Li, *Lihua Lei*, Sharmodeep Bhattacharyya, Purnamrita Sarkar, Peter J. Bickel, Elizaveta Levina, 2019.
+- [https://arxiv.org/abs/1810.01509 Hierarchical community detection by recursive partitioning], Tianxi Li, *Lihua Lei*, Sharmodeep Bhattacharyya, Purnamrita Sarkar, Peter J. Bickel, and Elizaveta Levina, 2019.
 
-- [https://arxiv.org/abs/1806.07585 Regression adjustment in randomized experiments with a diverging number of covariates], *Lihua Lei* and Peng Ding, 2018.
-
-- [https://arxiv.org/abs/1710.02776 STAR: A general interactive framework for FDR control under structural constraints], *Lihua Lei*, Aaditya Ramdas, and William Fithian, 2017. 
+- [https://arxiv.org/abs/1806.07585 Regression adjustment in randomized experiments with a diverging number of covariates], *Lihua Lei*, and Peng Ding, 2018.
 
 == Softwares
 
@@ -47,3 +51,5 @@
 -- [https://cran.r-project.org/web/packages/adaptMT/vignettes/adapt_demo.html A long tutorial]
 
 - [https://github.com/lihualei71/mkn mkn], an R package for multiple-knockoffs based inference (an ongoing project)
+
+- [https://lihualei71.github.io/cfcausal/index.html], an R package for conformal inference of counterfactuals and individual treatment effects
