@@ -30,6 +30,8 @@
 
 == Preprints
 
+- [https://arxiv.org/abs/2007.10438 Conditional calibration for false discovery rate control under dependence], William Fithian, and *Lihua Lei*, 2020.
+
 - [https://arxiv.org/abs/2006.06138 Conformal Inference of Counterfactuals and Individual Treatment Effects], *Lihua Lei*, and Emmanuel Cand\\`{e}s, 2020.
 
 - [https://arxiv.org/abs/2004.14531 Consistency of Spectral Clustering on Hierarchical Stochastic Block Models], *Lihua Lei*, Xiaodong Li, and Xingmei Lou, 2020.
@@ -53,3 +55,5 @@
 - [https://github.com/lihualei71/mkn mkn], an R package for multiple-knockoffs based inference (an ongoing project)
 
 - [https://lihualei71.github.io/cfcausal/index.html cfcausal], an R package for conformal inference of counterfactuals and individual treatment effects
+
+- [https://lihualei71.github.io/dbh/index.html cfcausal], an R package for dependence-adjusted Benjamini-Hochberg and general step-up procedures
