@@ -56,4 +56,4 @@
 
 - [https://lihualei71.github.io/cfcausal/index.html cfcausal], an R package for conformal inference of counterfactuals and individual treatment effects
 
-- [https://lihualei71.github.io/dbh/index.html cfcausal], an R package for dependence-adjusted Benjamini-Hochberg and general step-up procedures
+- [https://lihualei71.github.io/dbh/index.html dbh], an R package for dependence-adjusted Benjamini-Hochberg and general step-up procedures
