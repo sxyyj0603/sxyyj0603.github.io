@@ -10,9 +10,9 @@
 
 - [https://arxiv.org/abs/1710.02776 A general interactive framework for FDR control under structural constraints], *Lihua Lei*, Aaditya Ramdas, and William Fithian, 2020. /To appear in Biometrika/. [https://arxiv.org/abs/1710.02776 Arxiv]
 
-- [https://arxiv.org/abs/1904.04480 On the Adaptivity of Stochastic Gradient-Based Optimization], *Lihua Lei*, and Michael I. Jordan, 2020. /To appear in SIAM Journal on Optimization (SIOPT)/. [https://arxiv.org/abs/1904.04480 Arxiv]
+- [https://epubs.siam.org/doi/abs/10.1137/19M1256919 On the Adaptivity of Stochastic Gradient-Based Optimization], *Lihua Lei*, and Michael I. Jordan, 2020. /SIAM Journal on Optimization (SIOPT) *30* (2020), 1473-1500/. [https://arxiv.org/abs/1904.04480 Arxiv]
 
-- [https://arxiv.org/pdf/1711.02582 Overlap in Observational Studies With High-Dimensional Covariates], Alexander D'Amour, Peng Ding, Avi Feller, *Lihua Lei*, and Jasjeet Sekhon, 2019. /To appear in Journal of Econometrics (JoE)/. [https://arxiv.org/pdf/1711.02582 Arxiv]
+- [https://www.sciencedirect.com/science/article/pii/S0304407620302694 Overlap in Observational Studies With High-Dimensional Covariates], Alexander D'Amour, Peng Ding, Avi Feller, *Lihua Lei*, and Jasjeet Sekhon, 2019. /Journal of Econometrics (JoE) *221* (2019), 644-654/. [https://arxiv.org/pdf/1711.02582 Arxiv]
 
 - [https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssb.12274 AdaPT: An interactive procedure for multiple testing with side information], *Lihua Lei*, and William Fithian, 2018. /Journal of the Royal Statistical Society: Series B (JRSS-B) *80* (2018), 649-679/. [https://arxiv.org/abs/1609.06035 Arxiv]
 
@@ -34,7 +34,9 @@
 
 == Preprints
 
-- [https://arxiv.org/abs/2101.02703 Distribution-Free, Risk-Controlling Prediction Sets], Stephen Bates, Anastasios Angelopoulos, *Lihua Lei*, Jitendra Malik, and Michael I. Jordan
+- [https://arxiv.org/abs/2103.09763 Conformalized Survival Analysis], Emmanuel Candès, *Lihua Lei*, and Zhimei Ren, 2021.
+
+- [https://arxiv.org/abs/2101.02703 Distribution-Free, Risk-Controlling Prediction Sets], Stephen Bates, Anastasios Angelopoulos, *Lihua Lei*, Jitendra Malik, and Michael I. Jordan, 2021
 
 - [https://arxiv.org/abs/2007.10438 Conditional calibration for false discovery rate control under dependence], William Fithian, and *Lihua Lei*, 2020.
 
