@@ -1,8 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  11 APR 2021 12:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  10 MAY 2021 12:55
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**CV_Lihua_Lei
+**CV_Lihua_Lei.tex
 (./CV_Lihua_Lei.tex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
@@ -284,40 +285,40 @@ Overfull \hbox (10.55986pt too wide) in paragraph at lines 47--68
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 166.
+(Font)              <12> on input line 167.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 166.
+(Font)              <8> on input line 167.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 166.
+(Font)              <6> on input line 167.
 
 [2] [3] [4] [5] [6]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 425.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 432.
 
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 425.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 430.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 432.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 437.
  [7]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 430.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 437.
 
 (./CV_Lihua_Lei.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 430.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 430.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 437.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 437.
 Package rerunfilecheck Info: File `CV_Lihua_Lei.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 430.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 437.
  ) 
 Here is how much of TeX's memory you used:
- 5230 strings out of 492616
- 77657 string characters out of 6129482
+ 5231 strings out of 492616
+ 77664 string characters out of 6129482
  175441 words of memory out of 5000000
  9109 multiletter control sequences out of 15000+600000
  7804 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,8n,21p,741b,404s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,8n,21p,745b,404s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
@@ -332,10 +333,10 @@ ve/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive
 /2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2
 019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/20
 19/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on CV_Lihua_Lei.pdf (7 pages, 177630 bytes).
+Output written on CV_Lihua_Lei.pdf (7 pages, 177904 bytes).
 PDF statistics:
- 131 PDF objects out of 1000 (max. 8388607)
- 106 compressed objects within 2 object streams
- 35 named destinations out of 1000 (max. 500000)
+ 132 PDF objects out of 1000 (max. 8388607)
+ 107 compressed objects within 2 object streams
+ 36 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
