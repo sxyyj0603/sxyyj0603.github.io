@@ -2,19 +2,21 @@
 
 == Journal Publications
 
+- [https://arxiv.org/abs/1911.09200 Smoothed Nested Testing on Directed Acyclic Graphs], Jackson H. Loper, *Lihua Lei*, William Fithian, and Wesley Tansey, 2021. /To appear in Biometrika/. [https://arxiv.org/abs/1911.09200 Arxiv]
+
 - [https://arxiv.org/abs/2006.06138 Conformal Inference of Counterfactuals and Individual Treatment Effects], *Lihua Lei*, and Emmanuel Candès, 2021. /To appear in Journal of the Royal Statistical Society: Series B (JRSS-B)/. [https://arxiv.org/abs/2006.06138 Arxiv]
 
 - [https://arxiv.org/abs/1806.07585 Regression adjustment in randomized experiments with a diverging number of covariates], *Lihua Lei*, and Peng Ding, 2020. /To appear in Biometrika/. [https://arxiv.org/abs/1806.07585 Arxiv]
 
 - [https://arxiv.org/abs/1810.01509 Hierarchical community detection by recursive partitioning], Tianxi Li, *Lihua Lei*, Sharmodeep Bhattacharyya, Purnamrita Sarkar, Peter J. Bickel, and Elizaveta Levina, 2020. /To appear in Journal of the American Statistical Association (JASA)/. [https://arxiv.org/abs/1810.01509 Arxiv]
 
-- [https://arxiv.org/pdf/1907.06133.pdf An Assumption-Free Exact Test For Fixed-Design Linear Models With Exchangeable Errors], *Lihua Lei*, and Peter J. Bickel, 2020. /To appear in Biometrika/. [https://arxiv.org/pdf/1907.06133.pdf Arxiv]
+- [https://academic.oup.com/biomet/article-abstract/108/2/397/5913387 An Assumption-Free Exact Test For Fixed-Design Linear Models With Exchangeable Errors], *Lihua Lei*, and Peter J. Bickel, 2020. /Biometrika *108* (2021), 397-412/. [https://arxiv.org/abs/1907.06133 Arxiv]
 
-- [https://arxiv.org/abs/1710.02776 A general interactive framework for FDR control under structural constraints], *Lihua Lei*, Aaditya Ramdas, and William Fithian, 2020. /To appear in Biometrika/. [https://arxiv.org/abs/1710.02776 Arxiv]
+- [https://academic.oup.com/biomet/article/108/2/253/5879274 A general interactive framework for FDR control under structural constraints], *Lihua Lei*, Aaditya Ramdas, and William Fithian, 2020. /Biometrika *108* (2021), 253-267/. [https://arxiv.org/abs/1710.02776 Arxiv]
 
 - [https://epubs.siam.org/doi/abs/10.1137/19M1256919 On the Adaptivity of Stochastic Gradient-Based Optimization], *Lihua Lei*, and Michael I. Jordan, 2020. /SIAM Journal on Optimization (SIOPT) *30* (2020), 1473-1500/. [https://arxiv.org/abs/1904.04480 Arxiv]
 
-- [https://www.sciencedirect.com/science/article/pii/S0304407620302694 Overlap in Observational Studies With High-Dimensional Covariates], Alexander D'Amour, Peng Ding, Avi Feller, *Lihua Lei*, and Jasjeet Sekhon, 2019. /Journal of Econometrics (JoE) *221* (2019), 644-654/. [https://arxiv.org/pdf/1711.02582 Arxiv]
+- [https://www.sciencedirect.com/science/article/pii/S0304407620302694 Overlap in Observational Studies With High-Dimensional Covariates], Alexander D'Amour, Peng Ding, Avi Feller, *Lihua Lei*, and Jasjeet Sekhon, 2019. /Journal of Econometrics (JoE) *221* (2019), 644-654/. [https://arxiv.org/abs/1711.02582 Arxiv]
 
 - [https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssb.12274 AdaPT: An interactive procedure for multiple testing with side information], *Lihua Lei*, and William Fithian, 2018. /Journal of the Royal Statistical Society: Series B (JRSS-B) *80* (2018), 649-679/. [https://arxiv.org/abs/1609.06035 Arxiv]
 
@@ -47,8 +49,6 @@
 - [https://arxiv.org/abs/2004.14531 Consistency of Spectral Clustering on Hierarchical Stochastic Block Models], *Lihua Lei*, Xiaodong Li, and Xingmei Lou, 2020.
 
 - [https://arxiv.org/abs/2002.05359 Adaptivity of Stochastic Gradient Methods for Nonconvex Optimization], Samuel Horváth, *Lihua Lei*, Peter Richtárik, and Michael I. Jordan, 2020.
-
-- [https://arxiv.org/abs/1911.09200 Smoothed Nested Testing on Directed Acyclic Graphs], Wesley Tansey, Jackson H. Loper, *Lihua Lei*, and William Fithian, 2019.
 
 - [https://arxiv.org/abs/1909.04798 Unified Two-to-infinity Eigenspace Perturbation Theory for Symmetric Random Matrices], *Lihua Lei*, 2019.
 
