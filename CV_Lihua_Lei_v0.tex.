@@ -182,7 +182,7 @@ Stochastic optimization; Econometrics
 \end{enumerate}
 
 \begin{large}
-\noindent Software
+\noindent Softwares 
 \end{large}
 
 \begin{enumerate}
@@ -193,7 +193,7 @@ Stochastic optimization; Econometrics
 \item \texttt{ovalue}: \texttt{R} package on distribution-free assessment of population overlap (O-values) for observational studies (on github).
 \end{enumerate}
 
-\newpage
+\vspace{2mm}
 \begin{large}
 \noindent \textbf{Professional Services}
 \end{large}
@@ -203,79 +203,213 @@ Stochastic optimization; Econometrics
 \noindent Invited Talks (no interview/job talks)
 \end{large}
 
-\begin{enumerate}
-\item Double-Robust Two-Way-Fixed-Effects Regression For Panel Data. \emph{One World YoungStatS (Webinar)}, Dec. 2021.
-\item Double-Robust Two-Way-Fixed-Effects Regression For Panel Data. \emph{University of California, Davis (Econometrics Seminar)}, Oct. 2021.
-\item Double-Robust Two-Way-Fixed-Effects Regression For Panel Data. \emph{Harvard University (Econometrics Workshop)}, Sep. 2021.
-\item Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{Temple University (Statistics Seminar)}, Sep. 2021.
-\item Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{New York University (Data Science Lunch Seminar)}, Sep. 2021.
-\item Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{New York University (Data Science Lunch Seminar)}, Sep. 2021.
-\item Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{ICSA Applied Statistics Symposium}, Sep. 2021.
-\item Testing for Outliers with Conformal p-values. \emph{At 12th International Conference on Multiple Comparison Procedures (MCP)}, Aug. 2021.
-\item Distribution-Free Assessment of Population Overlap in Observational Studies. \emph{At ICML "Neglected Assumptions of Causal Infernece" workshop}, Aug. 2021.
-\item Conformalized Survival Analysis. \emph{At IFDS Summer Workshop}, Aug. 2021.
-\item Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At INFORMS Virtual Healthcare Conference}, Jul. 2021.
-\item Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At The Hong Kong University of Science \& Technology}, Jun. 2021.
-\item AdaPT: An interactive procedure for multiple testing with side information. \emph{At WNAR}, Jun. 2021.
-\item Conformal Inference of Counterfactuals and Time-to-event Outcomes. \emph{At ETH Z\"{u}rich (Young Data Science Seminar)}, Jun. 2021.
-\item Hierarchical Community Detection for Heterogeneous and Multi-scaled Networks. \emph{At University of California, Berkeley (Neyman Seminar)}, May. 2021.
-\item Conformal Inference of Counterfactuals and Time-to-event Outcomes. \emph{At Stanford University (Statistics Seminar)}, May. 2021.
-\item Conformal Inference of Counterfactuals and Time-to-event Outcomes. \emph{At University of Chicago (Statistics Seminar)}, May. 2021.
-\item Hierarchical Community Detection for Heterogeneous and Multi-scaled Networks. \emph{At Stanford University (RAIN Seminar)}, Apr. 2021.
-\item Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At U Chicago Crime Lab (Data Science Meeting)}, Apr. 2021.
-\item Cyclic Permutation Test for Linear Models. \emph{At University of Chicago, Booth School of Business (Econometrics and Statistics Colloquium Workshop)}, Apr. 2021.
-\item Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At University of Maryland, Baltimore County (Statistics Seminar)}, Apr. 2021.
-\item Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At Dataiku research webinar}, Apr. 2021.
-\item Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At Northwestern University (Biostatistics \& Statistics Joint Seminar Series)}, Apr. 2021.
-\item Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At University of Manchester (CfE Biostatistics Forum)}, Mar. 2021.
-\item Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At The London School of Hygiene \& Tropical Medicine (LSHTM)}, Mar. 2021.
-\item Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At Computer Vision Talks Webinar}, Mar. 2021.
-\item Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At Facebook Core Data Science}, Mar. 2021.
-\item Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At Univerity of California, Los Angeles (Big Data and ML Seminar)}, Feb. 2021.
-\item Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At Univerity of Missouri (Biostatistics Group Seminar)}, Feb. 2021.
-\item Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At Leiden Univerity (Stéphanie van der Pas and Aad van der Vaart's group meeting)}, Feb. 2021.
-\item Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At Twitter}, Feb. 2021.
-\item Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At Stitch Fix}, Feb. 2021.
-\item Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At Rutgers University (Statistics Department Seminar)}, Feb. 2021.
-\item Distribution-Free Assessment of Population Overlap in Observational Studies. \emph{At University of Pennsylvania (Statistics Department Seminar)}, Jan. 2021.
-\item Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At Lyft}, Dec. 2020.
-\item Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At John Hopkins University (Causal Reading Group)}, Dec. 2020.
-\item AdaPT: An Interactive Procedure For Multiple Testing With Side Information. \emph{At Florida State University (Hongyuan Cao's Class, Guest Lecture)}, Nov. 2020. 
-\item Adaptivity of Stochastic Gradient-based Methods. \emph{At University of California, Berkeley (Jiantao Jiao's group}, Oct. 2020. 
-\item Hierarchical Community Detection for Heterogeneous and Multi-scaled Networks. \emph{At University of North Carolina at Chapel Hill (Statistics Department Seminar)}, Oct. 2020. 
-\item Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At Peking University (Biostatistics Department Seminar)}, Oct. 2020.
-\item Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At The 2020 Pacific Causal Inference Conference}, Sep. 2020.
-\item Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At Online Causal Inference Seminar}, Jul. 2020.
-\item AdaPT: An Interactive Procedure For Multiple Testing With Side Information. \emph{At International Seminar on Selective Inference}, Jul. 2020. 
-\item AdaPT: An Interactive Procedure For Multiple Testing With Side Information. \emph{At Southwestern University of Finance and Economics}, Jul. 2020. 
-\item Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At 2020 BAAI Conference}, Jun. 2020. 
-\item Fair and Efficient Allocation of Medical Resources During COVID-19. \emph{At Journal Club, Stanford University}, Jun. 2020.
-\item Survival Analysis of COVID-19 Patients. \emph{At Data Studio, Stanford University}, May. 2020.
-\item AdaPT: An Interactive Procedure For Multiple Testing With Side Information. \emph{At University of California, Berkeley (Michael I. Jordan's group)}, May. 2020. 
-\item Fair and Efficient Allocation of Medical Resources During COVID-19. \emph{At University of California, Berkeley (Sandrine Dudoit's group)}, May. 2020. 
-\item AdaPT: An Interactive Procedure For Multiple Testing With Side Information. \emph{At WNAR 2020 Annual Meeting}, Jun. 2020. (Cancelled due to COVID-19).
-\item Unified $\ell_{2\rightarrow\infty}$ Eigenspace Perturbation Theory for Symmetric Random Matrices. \emph{At SIAM Conference on Mathematics of Data Science (MDS20)}, May. 2020. (Cancelled due to COVID-19).
-\item BONuS: Adaptive Multiple Testing With Multivariate Test Statistics. \emph{At Banff Workshop}, Mar. 2020. (Cancelled due to COVID-19).
-\item Model-Free Assessment of Overlap in Observational Studies. \emph{At University of California, Berkeley (Causal Reading Group)}, Jan. 2020.
-\item Model-Free Assessment of Overlap in Observational Studies. \emph{SAMSI Workshop At Duke University)}, Dec. 2019.
-\item BONuS: Adaptive Multiple Testing With Multivariate Test Statistics. \emph{At Facebook Core Data Science}, Nov. 2019.
-\item Doubly robust two-way fixed effects regression for panel data. \emph{Third Annual Berkeley-Stanford Econometrics Jamboree)}, Oct. 2019.
-\item Regression Adjustment in Randomized Experiments With A Diverging Number of Covariates. \emph{Joint Statistical Meeting, Topic Contributed Session}, Aug. 2019.
-\item Hierarchical community detection by recursive partitioning. \emph{ICSA Applied Statistics Symposium}, Jun. 2019.
-\item Model-Free Assessment of Overlap in Observational Studies. \emph{At Yale University (Quantitative Research Methods Workshop)}, Feb. 2019.
-\item Hierarchical community detection by recursive partitioning. \emph{At University of California, Davis (Statistics Student Seminar)}, Jan. 2019.
-\item Model-Free Assessment of Overlap in Observational Studies. \emph{At Stanford University (Stefan Wager's group)}, Jan. 2019.
-\item Statistical Inference in Moderate Dimensions. \emph{At University of South California (Statistics Department Seminar)}, Dec. 2018.
-\item Hierarchical community detection by recursive bi-partitioning. \emph{At University of Michigan (Liza Levina's group)}, Oct. 2018.
-\item Statistical Inference in Moderate Dimensions. \emph{At University of Michigan (Student Seminar)}, Oct. 2018.
-\item Regression Adjustment in Randomized Experiments With A Diverging Number of Covariates. \emph{At University of Michigan (Xuming He's group)}, Oct. 2018.
-\item AdaPT: An Interactive Procedure For Multiple Testing With Side Information. \emph{International Conference on Econometrics and Statistics (EcoSta)}, Jun. 2018.
-\item Regression Adjustment in Randomized Experiments With A Diverging Number of Covariates. \emph{Atlantic Causal Inference Conference (ACIC)}, May. 2018.
-\item Stochastically Controlled Stochastic Gradient (SCSG) Method. \emph{At University of California, Davis (Cho-Jui Hsieh's group)}, Mar. 2018.
-\item AdaPT: An Interactive Procedure For Multiple Testing With Side Information. \emph{At Stanford University (David Tse's group)}, Feb. 2018.
-\item Asymptotics For High Dimensional Regression M-Estimates: Fixed Design Results. \emph{Berkeley-Stanford Econometrics Jamboree}, Nov. 2017. 
-\end{enumerate}
- 
+\vspace{2mm}
+Double-Robust Two-Way-Fixed-Effects Regression For Panel Data. \emph{University of California, Davis (Econometrics Seminar)}, Oct. 2021.
+
+\vspace{2mm}
+Double-Robust Two-Way-Fixed-Effects Regression For Panel Data. \emph{Harvard University (Econometrics Workshop)}, Sep. 2021.
+
+\vspace{2mm}
+Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{Temple University (Statistics Seminar)}, Sep. 2021.
+
+\vspace{2mm}
+Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{New York University (Data Science Lunch Seminar)}, Sep. 2021.
+
+\vspace{2mm}
+Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{New York University (Data Science Lunch Seminar)}, Sep. 2021.
+
+\vspace{2mm}
+Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{ICSA Applied Statistics Symposium}, Sep. 2021.
+
+\vspace{2mm}
+Testing for Outliers with Conformal p-values. \emph{At 12th International Conference on Multiple Comparison Procedures (MCP)}, Aug. 2021.
+
+\vspace{2mm}
+Distribution-Free Assessment of Population Overlap in Observational Studies. \emph{At ICML "Neglected Assumptions of Causal Infernece" workshop}, Aug. 2021.
+
+\vspace{2mm}
+Conformalized Survival Analysis. \emph{At IFDS Summer Workshop}, Aug. 2021.
+
+\vspace{2mm}
+Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At INFORMS Virtual Healthcare Conference}, Jul. 2021.
+
+\vspace{2mm}
+Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At The Hong Kong University of Science \& Technology}, Jun. 2021.
+
+\vspace{2mm}
+AdaPT: An interactive procedure for multiple testing with side information. \emph{At WNAR}, Jun. 2021.
+
+\vspace{2mm}
+Conformal Inference of Counterfactuals and Time-to-event Outcomes. \emph{At ETH Z\"{u}rich (Young Data Science Seminar)}, Jun. 2021.
+
+\vspace{2mm}
+Hierarchical Community Detection for Heterogeneous and Multi-scaled Networks. \emph{At University of California, Berkeley (Neyman Seminar)}, May. 2021.
+
+\vspace{2mm}
+Conformal Inference of Counterfactuals and Time-to-event Outcomes. \emph{At Stanford University (Statistics Seminar)}, May. 2021.
+
+\vspace{2mm}
+Conformal Inference of Counterfactuals and Time-to-event Outcomes. \emph{At University of Chicago (Statistics Seminar)}, May. 2021.
+
+\vspace{2mm}
+Hierarchical Community Detection for Heterogeneous and Multi-scaled Networks. \emph{At Stanford University (RAIN Seminar)}, Apr. 2021.
+
+\vspace{2mm}
+Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At U Chicago Crime Lab (Data Science Meeting)}, Apr. 2021.
+
+\vspace{2mm}
+Cyclic Permutation Test for Linear Models. \emph{At University of Chicago, Booth School of Business (Econometrics and Statistics Colloquium Workshop)}, Apr. 2021.
+
+\vspace{2mm}
+Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At University of Maryland, Baltimore County (Statistics Seminar)}, Apr. 2021.
+
+\vspace{2mm}
+Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At Dataiku research webinar}, Apr. 2021.
+
+\vspace{2mm}
+Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At Northwestern University (Biostatistics \& Statistics Joint Seminar Series)}, Apr. 2021.
+
+\vspace{2mm}
+Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At University of Manchester (CfE Biostatistics Forum)}, Mar. 2021.
+
+\vspace{2mm}
+Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At The London School of Hygiene \& Tropical Medicine (LSHTM)}, Mar. 2021.
+
+\vspace{2mm}
+Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At Computer Vision Talks Webinar}, Mar. 2021.
+
+\vspace{2mm}
+Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At Facebook Core Data Science}, Mar. 2021.
+
+\vspace{2mm}
+Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At Univerity of California, Los Angeles (Big Data and ML Seminar)}, Feb. 2021.
+
+\vspace{2mm}
+Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At Univerity of Missouri (Biostatistics Group Seminar)}, Feb. 2021.
+
+\vspace{2mm}
+Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At Leiden Univerity (Stéphanie van der Pas and Aad van der Vaart's group meeting)}, Feb. 2021.
+
+\vspace{2mm}
+Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At Twitter}, Feb. 2021.
+
+\vspace{2mm}
+Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At Stitch Fix}, Feb. 2021.
+
+\vspace{2mm}
+Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At Rutgers University (Statistics Department Seminar)}, Feb. 2021.
+
+\vspace{2mm}
+Distribution-Free Assessment of Population Overlap in Observational Studies. \emph{At University of Pennsylvania (Statistics Department Seminar)}, Jan. 2021.
+
+\vspace{2mm}
+Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At Lyft}, Dec. 2020.
+
+\vspace{2mm}
+Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At John Hopkins University (Causal Reading Group)}, Dec. 2020.
+
+\vspace{2mm}
+AdaPT: An Interactive Procedure For Multiple Testing With Side Information. \emph{At Florida State University (Hongyuan Cao's Class, Guest Lecture)}, Nov. 2020. 
+
+\vspace{2mm}
+Adaptivity of Stochastic Gradient-based Methods. \emph{At University of California, Berkeley (Jiantao Jiao's group}, Oct. 2020. 
+
+\vspace{2mm}
+Hierarchical Community Detection for Heterogeneous and Multi-scaled Networks. \emph{At University of North Carolina at Chapel Hill (Statistics Department Seminar)}, Oct. 2020. 
+
+\vspace{2mm}
+Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At Peking University (Biostatistics Department Seminar)}, Oct. 2020.
+
+\vspace{2mm}
+Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At The 2020 Pacific Causal Inference Conference}, Sep. 2020.
+
+\vspace{2mm}
+Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At Online Causal Inference Seminar}, Jul. 2020.
+
+\vspace{2mm}
+AdaPT: An Interactive Procedure For Multiple Testing With Side Information. \emph{At International Seminar on Selective Inference}, Jul. 2020. 
+
+\vspace{2mm}
+AdaPT: An Interactive Procedure For Multiple Testing With Side Information. \emph{At Southwestern University of Finance and Economics}, Jul. 2020. 
+
+\vspace{2mm}
+Conformal Inference of Counterfactuals and Individual Treatment Effects. \emph{At 2020 BAAI Conference}, Jun. 2020. 
+
+\vspace{2mm}
+Fair and Efficient Allocation of Medical Resources During COVID-19. \emph{At Journal Club, Stanford University}, Jun. 2020.
+
+\vspace{2mm}
+Survival Analysis of COVID-19 Patients. \emph{At Data Studio, Stanford University}, May. 2020.
+
+\vspace{2mm}
+AdaPT: An Interactive Procedure For Multiple Testing With Side Information. \emph{At University of California, Berkeley (Michael I. Jordan's group)}, May. 2020. 
+
+\vspace{2mm}
+Fair and Efficient Allocation of Medical Resources During COVID-19. \emph{At University of California, Berkeley (Sandrine Dudoit's group)}, May. 2020. 
+
+\vspace{2mm}
+AdaPT: An Interactive Procedure For Multiple Testing With Side Information. \emph{At WNAR 2020 Annual Meeting}, Jun. 2020. (Cancelled due to COVID-19).
+
+\vspace{2mm}
+Unified $\ell_{2\rightarrow\infty}$ Eigenspace Perturbation Theory for Symmetric Random Matrices. \emph{At SIAM Conference on Mathematics of Data Science (MDS20)}, May. 2020. (Cancelled due to COVID-19).
+
+\vspace{2mm}
+BONuS: Adaptive Multiple Testing With Multivariate Test Statistics. \emph{At Banff Workshop}, Mar. 2020. (Cancelled due to COVID-19).
+
+\vspace{2mm}
+Model-Free Assessment of Overlap in Observational Studies. \emph{At University of California, Berkeley (Causal Reading Group)}, Jan. 2020.
+
+\vspace{2mm}
+Model-Free Assessment of Overlap in Observational Studies. \emph{SAMSI Workshop At Duke University)}, Dec. 2019.
+
+\vspace{2mm}
+BONuS: Adaptive Multiple Testing With Multivariate Test Statistics. \emph{At Facebook Core Data Science}, Nov. 2019.
+
+\vspace{2mm}
+Doubly robust two-way fixed effects regression for panel data. \emph{Third Annual Berkeley-Stanford Econometrics Jamboree)}, Oct. 2019.
+
+\vspace{2mm}
+Regression Adjustment in Randomized Experiments With A Diverging Number of Covariates. \emph{Joint Statistical Meeting, Topic Contributed Session}, Aug. 2019.
+
+\vspace{2mm}
+Hierarchical community detection by recursive partitioning. \emph{ICSA Applied Statistics Symposium}, Jun. 2019.
+
+\vspace{2mm}
+Model-Free Assessment of Overlap in Observational Studies. \emph{At Yale University (Quantitative Research Methods Workshop)}, Feb. 2019.
+
+\vspace{2mm}
+Hierarchical community detection by recursive partitioning. \emph{At University of California, Davis (Statistics Student Seminar)}, Jan. 2019.
+
+\vspace{2mm}
+Model-Free Assessment of Overlap in Observational Studies. \emph{At Stanford University (Stefan Wager's group)}, Jan. 2019.
+
+\vspace{2mm}
+Statistical Inference in Moderate Dimensions. \emph{At University of South California (Statistics Department Seminar)}, Dec. 2018.
+
+\vspace{2mm}
+Hierarchical community detection by recursive bi-partitioning. \emph{At University of Michigan (Liza Levina's group)}, Oct. 2018.
+
+\vspace{2mm}
+Statistical Inference in Moderate Dimensions. \emph{At University of Michigan (Student Seminar)}, Oct. 2018.
+
+\vspace{2mm}
+Regression Adjustment in Randomized Experiments With A Diverging Number of Covariates. \emph{At University of Michigan (Xuming He's group)}, Oct. 2018.
+
+\vspace{2mm}
+AdaPT: An Interactive Procedure For Multiple Testing With Side Information. \emph{International Conference on Econometrics and Statistics (EcoSta)}, Jun. 2018.
+
+\vspace{2mm}
+Regression Adjustment in Randomized Experiments With A Diverging Number of Covariates. \emph{Atlantic Causal Inference Conference (ACIC)}, May. 2018.
+
+\vspace{2mm}
+Stochastically Controlled Stochastic Gradient (SCSG) Method. \emph{At University of California, Davis (Cho-Jui Hsieh's group)}, Mar. 2018.
+
+\vspace{2mm}
+AdaPT: An Interactive Procedure For Multiple Testing With Side Information. \emph{At Stanford University (David Tse's group)}, Feb. 2018.
+
+\vspace{2mm}
+Asymptotics For High Dimensional Regression M-Estimates: Fixed Design Results. \emph{Berkeley-Stanford Econometrics Jamboree}, Nov. 2017. 
+
 \vspace{5mm}
 
 % \begin{large}
@@ -309,7 +443,6 @@ Stochastic optimization; Econometrics
 % \vspace{2mm}
 % Berkeley Statistics Annual Research Symposium (BSTARS), 2017, 2018.
 
-\newpage 
 \vspace{5mm}
 \begin{large}
 \noindent Reviewing (revision review excluded)
