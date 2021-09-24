@@ -2,6 +2,8 @@
 
 == Journal Publications
 
+- [https://arxiv.org/abs/2007.10438 Conditional calibration for false discovery rate control under dependence], William Fithian, and *Lihua Lei*, 2021. /To appear in Annals of Statistics (AoS)/. [https://arxiv.org/abs/2007.10438 Arxiv]
+
 - [https://arxiv.org/abs/2101.02703 Distribution-Free, Risk-Controlling Prediction Sets], Stephen Bates, Anastasios Angelopoulos, *Lihua Lei*, Jitendra Malik, and Michael I. Jordan, 2021. /To appear in Journal of the ACM/. [https://arxiv.org/abs/2101.02703 Arxiv]
 
 - [https://arxiv.org/abs/1911.09200 Smoothed Nested Testing on Directed Acyclic Graphs], Jackson H. Loper, *Lihua Lei*, William Fithian, and Wesley Tansey, 2021. /To appear in Biometrika/. [https://arxiv.org/abs/1911.09200 Arxiv]
@@ -48,8 +50,6 @@
 
 - [https://arxiv.org/abs/2103.09763 Conformalized Survival Analysis], Emmanuel Candès, *Lihua Lei*, and Zhimei Ren, 2021.
 
-- [https://arxiv.org/abs/2007.10438 Conditional calibration for false discovery rate control under dependence], William Fithian, and *Lihua Lei*, 2020.
-
 - [https://arxiv.org/abs/2004.14531 Consistency of Spectral Clustering on Hierarchical Stochastic Block Models], *Lihua Lei*, Xiaodong Li, and Xingmei Lou, 2020.
 
 - [https://arxiv.org/abs/2002.05359 Adaptivity of Stochastic Gradient Methods for Nonconvex Optimization], Samuel Horváth, *Lihua Lei*, Peter Richtárik, and Michael I. Jordan, 2020.
@@ -67,3 +67,5 @@
 - [https://lihualei71.github.io/cfcausal/index.html cfcausal], an R package for conformal inference of counterfactuals and individual treatment effects
 
 - [https://lihualei71.github.io/dbh/index.html dbh], an R package for dependence-adjusted Benjamini-Hochberg and general step-up procedures
+
+- [https://lihualei71.github.io/ovalue/index.html ovalue], an R package for distribution-free assessment of population overlap in observational studies
