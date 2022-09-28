@@ -2,13 +2,15 @@
 
 == Journal Publications
 
+- [https://arxiv.org/abs/2103.09763 Conformalized Survival Analysis], Emmanuel Candès, *Lihua Lei*, and Zhimei Ren, 2022+. /To appear in Journal of the Royal Statistical Society: Series B (JRSS-B)/.
+
 - [https://epubs.siam.org/doi/abs/10.1137/21M1394308 Adaptivity of Stochastic Gradient Methods for Nonconvex Optimization], Samuel Horváth, *Lihua Lei*, Peter Richtárik, and Michael I. Jordan, 2022. /SIAM Journal on Mathematics of Data Science (SIMODS), *4* (2022), 634-648/. [https://arxiv.org/abs/2002.05359 Arxiv]
 
-- [https://arxiv.org/abs/2007.10438 Conditional calibration for false discovery rate control under dependence], William Fithian, and *Lihua Lei*, 2021. /To appear in Annals of Statistics (AoS)/. [https://arxiv.org/abs/2007.10438 Arxiv]
+- [https://arxiv.org/abs/2007.10438 Conditional calibration for false discovery rate control under dependence], William Fithian, and *Lihua Lei*, 2022+. /To appear in Annals of Statistics (AoS)/. [https://arxiv.org/abs/2007.10438 Arxiv]
 
-- [https://arxiv.org/abs/2101.02703 Distribution-Free, Risk-Controlling Prediction Sets], Stephen Bates, Anastasios Angelopoulos, *Lihua Lei*, Jitendra Malik, and Michael I. Jordan, 2021. /Journal of the ACM, *68* (2021), 1-34/. [https://arxiv.org/abs/2101.02703 Arxiv]
+- [https://dl.acm.org/doi/10.1145/3478535 Distribution-Free, Risk-Controlling Prediction Sets], Stephen Bates, Anastasios Angelopoulos, *Lihua Lei*, Jitendra Malik, and Michael I. Jordan, 2021. /Journal of the ACM, *68* (2021), 1-34/. [https://arxiv.org/abs/2101.02703 Arxiv]
 
-- [https://arxiv.org/abs/1911.09200 Smoothed Nested Testing on Directed Acyclic Graphs], Jackson H. Loper, *Lihua Lei*, William Fithian, and Wesley Tansey, 2021. /To appear in Biometrika/. [https://arxiv.org/abs/1911.09200 Arxiv]
+- [https://academic.oup.com/biomet/article-abstract/109/2/457/6362862?redirectedFrom=fulltext Smoothed Nested Testing on Directed Acyclic Graphs], Jackson H. Loper, *Lihua Lei*, William Fithian, and Wesley Tansey, 2021. /To appear in Biometrika/. [https://arxiv.org/abs/1911.09200 Arxiv]
 
 - [https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssb.12445 Conformal Inference of Counterfactuals and Individual Treatment Effects], *Lihua Lei*, and Emmanuel Candès, 2021. /Journal of the Royal Statistical Society: Series B (JRSS-B) *83* (2021), 911-938/. [https://arxiv.org/abs/2006.06138 Arxiv]
 
@@ -47,8 +49,6 @@
 - [https://arxiv.org/abs/2107.13737 Double-Robust Two-Way-Fixed-Effects Regression For Panel Data], Dmitry Arkhangelsky, Guido W. Imbens, *Lihua Lei*, and Xiaoman Luo, 2021. Under R\&R at /Quantitative Economics (QE)/.
 
 - [https://arxiv.org/abs/2104.08279 Testing for Outliers with Conformal p-values], Stephen Bates, Emmanuel Candès, *Lihua Lei*, Yaniv Romano, and Matteo Sesia, 2021. [UDL_2021_LL.pdf UDL slides]. Under Major Revision at /Annals of Statistics (AoS)/.
-
-- [https://arxiv.org/abs/2103.09763 Conformalized Survival Analysis], Emmanuel Candès, *Lihua Lei*, and Zhimei Ren, 2021. Under Major Revision at /Journal of the Royal Statistical Society: Series B (JRSS-B)/.
 
 == Preprints
 
