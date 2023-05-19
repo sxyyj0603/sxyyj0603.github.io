@@ -2,6 +2,8 @@
 
 == Journal Publications
 
+- [https://onlinelibrary.wiley.com/doi/full/10.1002/sta4.570 A Discussion of Tse and Davidson (2022)“A Note on Universal Inference”], Asher Spector, *Lihua Lei*, Emmanuel Candès, 2023. /Stat/
+
 - [https://arxiv.org/abs/2104.08279 Testing for Outliers with Conformal p-values], Stephen Bates, Emmanuel Candès, *Lihua Lei*, Yaniv Romano, and Matteo Sesia, 2022. /To appear in Annals of Statistics (AoS)/.
 
 - [https://arxiv.org/abs/2103.09763 Conformalized Survival Analysis], Emmanuel Candès, *Lihua Lei*, and Zhimei Ren, 2022+. /To appear in Journal of the Royal Statistical Society: Series B (JRSS-B)/.
@@ -48,15 +50,19 @@
 
 == Under Revision
 
+- [https://arxiv.org/abs/2208.09542 Improving knockoffs with conditional calibration], Yixiang Luo, William Fithian, and *Lihua Lei*, 2022. Under R\&R at /Annals of Statistics (AoS)/.
+
+- [https://arxiv.org/abs/2208.06685 Machine learning meets false discovery rate], Ariane Marandon, *Lihua Lei*, David Mary, and Etienne Roquain, 2022. Under Major Revision at /Annals of Statistics (AoS)/.
+
 - [https://arxiv.org/abs/2107.13737 Double-Robust Two-Way-Fixed-Effects Regression For Panel Data], Dmitry Arkhangelsky, Guido W. Imbens, *Lihua Lei*, and Xiaoman Luo, 2021. Under R\&R at /Quantitative Economics (QE)/.
 
 == Preprints
 
+- [Theory_Transfer.pdf The Transfer Performance of Economics Models], Isaiah Andrews, Drew Fudenberg, *Lihua Lei*, Annie Liang, and Chaofeng Wu, 2023
+
+- [https://arxiv.org/abs/2304.11735 Policy Learning under Biased Sample Selection], *Lihua Lei*, Roshni Sahoo, and Stefan Wager, 2023.
+
 - [https://arxiv.org/abs/2209.01754 Learning from a Biased Sample], Roshni Sahoo, *Lihua Lei*, and Stefan Wager, 2022.
-
-- [https://arxiv.org/abs/2208.06685 Machine learning meets false discovery rate], Ariane Marandon, *Lihua Lei*, David Mary, and Etienne Roquain, 2022.
-
-- [https://arxiv.org/abs/2208.09542 Improving knockoffs with conditional calibration], Yixiang Luo, William Fithian, and *Lihua Lei*, 2022. 
 
 - [https://arxiv.org/abs/2208.02814 Conformal Risk Control] Anastasios Angelopoulos, Stephen Bates, Adam Fisch, *Lihua Lei*, and Tal Schuster, 2022.
 
@@ -82,4 +88,4 @@
 
 - [https://lihualei71.github.io/dbh/index.html dbh], an R package for dependence-adjusted Benjamini-Hochberg and general step-up procedures
 
-- [https://lihualei71.github.io/ovalue/index.html ovalue], an R package for distribution-free assessment of population overlap in observational studies
+- [https://lihualei71.github.io/ovalue/ ovalue], an R package for distribution-free assessment of population overlap in observational studies
