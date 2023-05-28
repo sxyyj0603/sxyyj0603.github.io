@@ -88,4 +88,4 @@
 
 - [https://lihualei71.github.io/dbh/index.html dbh], an R package for dependence-adjusted Benjamini-Hochberg and general step-up procedures
 
-- [https://lihualei71.github.io/ovalue/ ovalue], an R package for distribution-free assessment of population overlap in observational studies
+- [https://github.com/lihualei71/ovalue/ ovalue], an R package for distribution-free assessment of population overlap in observational studies
