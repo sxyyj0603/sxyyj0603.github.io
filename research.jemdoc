@@ -68,8 +68,6 @@
 
 - [ovalue.pdf Distribution-Free Assessment of Population Overlap in Observational Studies], *Lihua Lei*, Alexander D'Amour, Peng Ding, Avi Feller, and Jasjeet Sekhon, 2021.
 
-- [https://arxiv.org/abs/2110.01052 Learn then Test: Calibrating Predictive Algorithms to Achieve Risk Control], Anastasios Angelopoulos, Stephen Bates, Emmanuel Candès, Michael I. Jordan, *Lihua Lei*, 2021.
-
 - [https://arxiv.org/abs/2106.15743 BONuS: Multiple multivariate testing with a data-adaptivetest statistic], Chiao-Yu Yang, *Lihua Lei*, Nhat Ho, and William Fithian, 2021.
 
 - [https://arxiv.org/abs/2004.14531 Consistency of Spectral Clustering on Hierarchical Stochastic Block Models], *Lihua Lei*, Xiaodong Li, and Xingmei Lou, 2020.
@@ -88,4 +86,5 @@
 
 - [https://lihualei71.github.io/dbh/index.html dbh], an R package for dependence-adjusted Benjamini-Hochberg and general step-up procedures
 
-- [https://github.com/lihualei71/ovalue/ ovalue], an R package for distribution-free assessment of population overlap in observational studies
+- [https://lihualei71.github.io/transferUQ transferUQ], an R package on uncertainty quantification of transfer performance for prediction models
+
